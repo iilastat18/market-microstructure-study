@@ -1,0 +1,7 @@
+stress_regime,liquidity_tier,spread_bps,realized_vol,turnover_usd_m
+Calm,High,15.271,0.023,124.772
+Calm,Low,34.391,0.025,20.542
+Calm,Medium,22.331,0.025,51.024
+Stress,High,22.564,0.038,146.361
+Stress,Low,41.746,0.04,23.767
+Stress,Medium,29.751,0.039,59.645

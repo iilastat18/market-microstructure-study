@@ -1,0 +1,5 @@
+term,coefficient,std_error,t_stat
+intercept,50.3731,0.2375,212.0917
+realized_vol,283.1696,5.6656,49.9809
+log_turnover,-8.7124,0.0437,-199.4941
+is_stress,4.5538,0.1098,41.4741
