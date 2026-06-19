@@ -16,6 +16,12 @@
 
 This is the research-focused repo in the portfolio. It complements the product-style projects by showing hypothesis formation, empirical analysis, and concise written findings.
 
+## Preview
+
+![Spread vs volatility](figures/spread_vs_volatility.png)
+
+![Spread by regime and liquidity](figures/spread_by_regime_and_liquidity.png)
+
 ## Research Question
 
 How do volatility and liquidity affect a simple spread proxy?
@@ -65,12 +71,6 @@ After running the scripts, you should see:
 - `figures/spread_vs_volatility.png`
 - `figures/spread_by_regime_and_liquidity.png`
 - `figures/spread_distribution_by_liquidity.png`
-
-## Preview Charts
-
-![Spread vs volatility](figures/spread_vs_volatility.png)
-
-![Spread by regime and liquidity](figures/spread_by_regime_and_liquidity.png)
 
 ## Example Findings From The Synthetic Sample
 
