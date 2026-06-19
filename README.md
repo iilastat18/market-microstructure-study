@@ -12,10 +12,6 @@
   <code>reproducible analysis</code>
 </p>
 
-## Portfolio Role
-
-This is the research-focused repo in the portfolio. It complements the product-style projects by showing hypothesis formation, empirical analysis, and concise written findings.
-
 ## Preview
 
 ![Spread vs volatility](figures/spread_vs_volatility.png)
@@ -88,12 +84,6 @@ This project is designed to complement a dashboard portfolio piece. Instead of s
 - building a reproducible dataset
 - running a simple empirical analysis
 - summarizing findings in a compact and readable way
-
-## Screenshot Strategy
-
-- lead with `spread_vs_volatility.png`
-- optionally add one regime/liquidity chart underneath
-- keep the README centered on the research question and findings, not on code volume
 
 ## Limitations
 
