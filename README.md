@@ -18,6 +18,10 @@
 
 ![Spread by regime and liquidity](figures/spread_by_regime_and_liquidity.png)
 
+## Overview
+
+A compact research workflow built around one question: how volatility and liquidity shape trading frictions in a stylized synthetic market.
+
 ## Research Question
 
 How do volatility and liquidity affect a simple spread proxy?
@@ -27,14 +31,6 @@ How do volatility and liquidity affect a simple spread proxy?
 - Higher volatility should be associated with wider spreads.
 - Lower liquidity should be associated with wider spreads.
 - The widening effect should be strongest during stress regimes.
-
-## Project Structure
-
-- `data/`: generated synthetic dataset
-- `figures/`: charts created by the analysis script
-- `notebooks/`: notebook-style walkthrough starter
-- `results/`: summary tables and key findings
-- `src/`: data generation and analysis code
 
 ## Quick Start
 
@@ -56,7 +52,7 @@ The study generates cross-sectional daily data for synthetic instruments across 
 4. compares spread behavior across liquidity tiers and stress regimes
 5. saves charts and summary outputs for portfolio presentation
 
-## Outputs
+## Key Outputs
 
 After running the scripts, you should see:
 
@@ -76,7 +72,15 @@ After running the scripts, you should see:
 - Log turnover loads negatively on spread: `-8.71`
 - The stress indicator remains positive even after controlling for volatility and turnover: `+4.55`
 
-## Why This Project Matters
+## Project Structure
+
+- `data/`: generated synthetic dataset
+- `figures/`: charts created by the analysis script
+- `notebooks/`: notebook-style walkthrough starter
+- `results/`: summary tables and key findings
+- `src/`: data generation and analysis code
+
+## Why It Fits The Portfolio
 
 This project is designed to complement a dashboard portfolio piece. Instead of showcasing interface design, it showcases research thinking:
 
